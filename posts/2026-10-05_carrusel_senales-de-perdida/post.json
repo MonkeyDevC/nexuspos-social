@@ -2,7 +2,20 @@
   "id": "2026-10-05_carrusel_senales-de-perdida",
   "type": "carousel",
   "title": "5 señales de que tu restaurante pierde plata sin que lo notes",
-  "images": ["01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg", "06.jpg", "07.jpg"],
+  "images": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg"
+  ],
   "caption": "¿Cuántas de estas 5 señales reconoces en tu negocio? 👀\nCuéntanos en comentarios cuántas, de 0 a 5. Y guarda este post para revisarlo con tu equipo.\n\nEn NexusPOS Local ayudamos a restaurantes y cafeterías a tener control de ventas, inventario y caja.\n\n📩 Escríbenos por DM.\n\n#NexusPOS #RestaurantesColombia #POSRestaurante #GestionDeRestaurantes #CafeteriasColombia",
-  "status": "draft"
+  "status": "published",
+  "published": {
+    "id": "18101260319051218",
+    "permalink": "https://www.instagram.com/p/DeCq-lim8AS/",
+    "at": "2026-10-03T18:10:42.358Z"
+  }
 }
